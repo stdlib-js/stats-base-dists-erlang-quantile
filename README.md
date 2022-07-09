@@ -72,7 +72,9 @@ If no recognized module system is present, access bundle contents via the global
 ```html
 <script type="text/javascript">
 (function () {
+(function () {
     window.quantile;
+})();
 })();
 </script>
 ```
@@ -171,6 +173,7 @@ y = myquantile( 0.4 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-quantile@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
+(function () {
 
 var lambda;
 var k;
@@ -186,6 +189,7 @@ for ( i = 0; i < 20; i++ ) {
     console.log( 'p: %d, k: %d, λ: %d, Q(p;k,λ): %d', p.toFixed( 4 ), k, lambda.toFixed( 4 ), y.toFixed( 4 ) );
 }
 
+})();
 })();
 </script>
 </body>
