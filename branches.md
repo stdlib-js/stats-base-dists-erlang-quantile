@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/erlang/quantile"
-click B href "https://github.com/stdlib-js/stats-base-dists-erlang-quantile/tree/main"
-click C href "https://github.com/stdlib-js/stats-base-dists-erlang-quantile/tree/production"
-click D href "https://github.com/stdlib-js/stats-base-dists-erlang-quantile/tree/esm"
-click E href "https://github.com/stdlib-js/stats-base-dists-erlang-quantile/tree/deno"
-click F href "https://github.com/stdlib-js/stats-base-dists-erlang-quantile/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/erlang/quantile"
+%% click B href "https://github.com/stdlib-js/stats-base-dists-erlang-quantile/tree/main"
+%% click C href "https://github.com/stdlib-js/stats-base-dists-erlang-quantile/tree/production"
+%% click D href "https://github.com/stdlib-js/stats-base-dists-erlang-quantile/tree/esm"
+%% click E href "https://github.com/stdlib-js/stats-base-dists-erlang-quantile/tree/deno"
+%% click F href "https://github.com/stdlib-js/stats-base-dists-erlang-quantile/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/erlang/quantile
