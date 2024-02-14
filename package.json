@@ -40,7 +40,8 @@
     "@stdlib/math-base-assert-is-nonnegative-integer": "^0.2.0",
     "@stdlib/stats-base-dists-gamma-quantile": "^0.2.0",
     "@stdlib/utils-constant-function": "^0.2.0",
-    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.0"
+    "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.0",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.0"
   },
   "devDependencies": {
     "@stdlib/constants-float64-eps": "^0.2.0",
