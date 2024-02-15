@@ -67,6 +67,11 @@ for `0 <= p < 1`, where `k` is the shape parameter and `lambda` is the rate para
 To use in Observable,
 
 ```javascript
+quantile = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-quantile@umd/browser.js' )
+```
+The previous example will load the latest bundled code from the umd branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-erlang-quantile/tags). For example,
+
+```javascript
 quantile = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-quantile@v0.2.0-umd/browser.js' )
 ```
 
@@ -79,7 +84,7 @@ var quantile = require( 'path/to/vendor/umd/stats-base-dists-erlang-quantile/ind
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-quantile@v0.2.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-quantile@umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -183,7 +188,7 @@ y = myquantile( 0.4 );
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-quantile@v0.2.0-umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-erlang-quantile@umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
