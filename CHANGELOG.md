@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-02-02)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`611fed3`](https://github.com/stdlib-js/stdlib/commit/611fed3fdb1d06516f0ad5fc9724356307810d1c) - **bench:** refactor random number generation in `stats/base/dists/erlang` [(#4916)](https://github.com/stdlib-js/stdlib/pull/4916) _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Karan Anand
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
