@@ -37,7 +37,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-base-assert-is-nonnegative-integer": "^0.2.1",
+    "@stdlib/math-base-assert-is-nonnegative-integer": "^0.2.2",
     "@stdlib/stats-base-dists-gamma-quantile": "^0.2.2",
     "@stdlib/utils-constant-function": "^0.2.2",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
@@ -54,6 +54,7 @@
     "@stdlib/random-array-uniform": "^0.2.1",
     "@stdlib/random-base-discrete-uniform": "^0.2.1",
     "@stdlib/random-base-uniform": "^0.2.1",
+    "@stdlib/string-format": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git",
