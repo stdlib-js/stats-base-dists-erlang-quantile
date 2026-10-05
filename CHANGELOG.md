@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-02)
+## Unreleased (2026-10-05)
+
+<section class="features">
+
+### Features
+
+-   [`dda96ac`](https://github.com/stdlib-js/stdlib/commit/dda96accb0f858538befc379ae0820da3b9af4b2) - add C implementation for `stats/base/dists/erlang/quantile` [(#14661)](https://github.com/stdlib-js/stdlib/pull/14661)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`dda96ac`](https://github.com/stdlib-js/stdlib/commit/dda96accb0f858538befc379ae0820da3b9af4b2) - **feat:** add C implementation for `stats/base/dists/erlang/quantile` [(#14661)](https://github.com/stdlib-js/stdlib/pull/14661) _(by Philipp Burckhardt, Karan Anand)_
 -   [`272680c`](https://github.com/stdlib-js/stdlib/commit/272680c75e71dfc7e75fc34868e153e28ba80412) - **test:** migrate `stats/base/dists/erlang/quantile` to ULP-based assertions [(#15753)](https://github.com/stdlib-js/stdlib/pull/15753) _(by Athan Reines)_
 
 </details>
@@ -24,9 +35,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
