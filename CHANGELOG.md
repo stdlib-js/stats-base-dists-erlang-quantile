@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-05)
+## Unreleased (2026-10-11)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`bec39c0`](https://github.com/stdlib-js/stdlib/commit/bec39c0877559794a971bb1c64d62cbddf1280d1) - **test:** update description _(by Athan Reines)_
 -   [`dda96ac`](https://github.com/stdlib-js/stdlib/commit/dda96accb0f858538befc379ae0820da3b9af4b2) - **feat:** add C implementation for `stats/base/dists/erlang/quantile` [(#14661)](https://github.com/stdlib-js/stdlib/pull/14661) _(by Philipp Burckhardt, Karan Anand)_
 -   [`272680c`](https://github.com/stdlib-js/stdlib/commit/272680c75e71dfc7e75fc34868e153e28ba80412) - **test:** migrate `stats/base/dists/erlang/quantile` to ULP-based assertions [(#15753)](https://github.com/stdlib-js/stdlib/pull/15753) _(by Athan Reines)_
 
